@@ -7,5 +7,5 @@ The most important thing about designing your own PC is making sure the pecies y
 I am aiming to attract users who want to save money on a PC, while still optimizing their build. </br>
 Website I will use for tutorial:</br>
 [PC Part Picker](https://pcpartpicker.com)
-![PC Part Picker](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![PC Part Picker](https://github.com/leeoffir/CustomComputerTutorial/blob/master/PCPARTPICKER.png "Logo Title")
 
