@@ -10,7 +10,7 @@ Website I will use for tutorial:</br>
 The first thing you need to know is what each of the parts of a computer are so you can purchase them. (Here is a link with definitions for all! [definitions](https://www.pcgamer.com/the-visual-pc-parts-guide/))  </br>
 
 # Youtube Videos
-[PC Part Picker Tutorial](https://youtu.be/GqwWl3_U6_s)
+[PC Part Picker Tutorial](https://youtu.be/GqwWl3_U6_s)</br>
 [Finished Build](https://youtu.be/2yuOsYuS2C8)</br>
 
 Note: The finished build was finished a few months prior to this assignment there for will have a couple different parts than the budgeted one. </br>
