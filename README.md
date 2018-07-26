@@ -13,7 +13,7 @@ The first thing you need to know is what each of the parts of a computer are so 
 [PC Part Picker Tutorial](https://youtu.be/GqwWl3_U6_s)</br>
 [Finished Build](https://youtu.be/2yuOsYuS2C8)</br>
 
-Note: The finished build was finished a few months prior to this assignment there for will have a couple different parts than the budgeted one. </br>
+Note: I helped build the finished PC a few months prior to this project, therefore there will be a couple parts that are different due to the budget. </br>
 
 Help with how to put the computer together:</br>
 https://www.wikihow.com/Build-a-Computer
